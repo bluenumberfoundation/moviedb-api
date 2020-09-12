@@ -36,7 +36,7 @@
     "moment": "^2.25.3",
     "ms": "^2.1.2",
     "mysql2": "^1.7.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "sequelize": "^5.21.6",
     "sqlite3": "^4.1.1",
     "winston": "^3.2.1"
